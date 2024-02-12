@@ -11,6 +11,7 @@ person1 = People("Alvaro",19, "Spain")
 person2 = People("Yannah", 16, "America")
 
 print(person1.name, person1.age, person1.country)
+print(f"Hi, I am {person1.name}, {person1.age} old, from {person1.country}." )
 
 
 
