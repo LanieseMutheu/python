@@ -7,8 +7,10 @@ class People:
         self.age = age
         self.country = country
 
- person1 = People("Alvaro",19, "Spain")
- person2 = People("Yannah", 16, "America")
+person1 = People("Alvaro",19, "Spain")
+person2 = People("Yannah", 16, "America")
+
+print(person1.name, person1.age, person1.country)
 
 
 
