@@ -15,7 +15,6 @@ print(f"Hi, I am {person1.name}, {person1.age} old, from {person1.country}." )
 
 
 
-
 #         self.name = "Laisie"
 #         self.age = 16
 #         self.country = "Kenya"
